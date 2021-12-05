@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\while_anuidade\bin\Debug\while_anuidade.exe.config
+C:\Users\Usuario\source\repos\while_anuidade\bin\Debug\while_anuidade.exe
+C:\Users\Usuario\source\repos\while_anuidade\bin\Debug\while_anuidade.pdb
+C:\Users\Usuario\source\repos\while_anuidade\obj\Debug\while_anuidade.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\while_anuidade\obj\Debug\while_anuidade.exe
+C:\Users\Usuario\source\repos\while_anuidade\obj\Debug\while_anuidade.pdb
+C:\Users\Usuario\source\repos\while_anuidade\obj\Debug\while_anuidade.csproj.AssemblyReference.cache
+D:\while_anuidade\bin\Debug\while_anuidade.exe.config
+D:\while_anuidade\bin\Debug\while_anuidade.exe
+D:\while_anuidade\bin\Debug\while_anuidade.pdb
+D:\while_anuidade\obj\Debug\while_anuidade.csproj.AssemblyReference.cache
+D:\while_anuidade\obj\Debug\while_anuidade.csproj.SuggestedBindingRedirects.cache
+D:\while_anuidade\obj\Debug\while_anuidade.csproj.CoreCompileInputs.cache
+D:\while_anuidade\obj\Debug\while_anuidade.exe
+D:\while_anuidade\obj\Debug\while_anuidade.pdb
